@@ -1,0 +1,185 @@
+* {
+			margin: 0;
+			padding: 0;
+			color: #cc9c36;
+			font-family: arial;
+}
+body {
+			background-color: #222;
+}
+#conteudo_principal {
+			width: 1047px;
+			height: 650px;
+			margin: 20px auto;
+			background-image: url(../imagens/base.jpg);
+}
+#menu {
+			width: 390px;
+			height: 20px;
+			position: relative;
+			top: 52px;
+			left: 87px;	
+}
+#menu ul {
+			list-style: none;
+}
+#menu ul li {
+			float: left;
+			font-weight: bold;
+			margin-left: 11px;
+}
+#menu ul li a{
+			text-decoration: none;
+			color: #cc9c36;	
+}
+#menu ul li a:hover {
+			color: white;
+}
+#conteudo_pagina {
+			width: 871px;
+			height: 472px;
+			margin: 70px 0 0 90px;
+}
+header {
+			width: 204px;
+			height: 305px;
+			float: left;
+}
+#base_paragrafo_slide {
+			float: right;
+			width: 655px;
+			height: 305px;
+}
+#miniatura_principal {
+			width: 1000px;
+			height: 162px;
+			margin: 5px 0 0 -16px;
+			float: left;
+}
+#quadro_inicio {
+			float: left;
+			width: 204px;
+			height: 305px;
+			
+}
+.social {
+			display: block;
+			width: 13px;
+			height: 13px;
+			position:relative;
+			top: -303px;
+			left: -38px;
+			margin-bottom: 17px;
+}
+#rede_social {
+			float: left;
+}
+#div_paragrafo {
+			float: left;
+			width: 250;
+			height: 305px;
+			font-size: 30px;
+}
+#quadro-slide {
+			float: right;
+			position: relative;
+			z-index: 1;
+}
+#slide {
+			width: 370px;
+			height: 290px;
+			position: relative;
+			top: -300px;
+			left: 270px;
+}
+#tabela1 tr td {
+			font-size: 13px; 
+			font-weight: bold;
+			width: 204px;
+}			
+#meu_nome {
+			float: left;
+			margin: 22px 0 0 342px;
+			font-size: 13px;
+			font-weight: bold;
+}
+#acervo {
+			width: 651px;
+			height: 468px;
+			float: right;	
+			border: 2px solid #cc9c36;
+}
+#complemento {
+			width: 200px;
+			height: 156px;
+			float: left;
+			margin-top: -130px;
+}
+#conteudo_acervo {
+			width: 450px;
+			height: 200px;
+			margin: 120px auto;
+}
+#pic {
+			float: left;
+			text-align: center;
+}
+#esc {
+			float: right;
+			text-align: center;
+}
+#cont {
+			text-align: center;
+}
+#conteudo_pintura {
+			width: 651px;
+			height: 468px;
+			float: right;
+			text-align: center;
+			border: 2px solid #cc9c36;
+}
+#conteudo_destaque {
+			width: 651px;
+			height: 468px;
+			float: right;
+			border: 2px solid #cc9c36;
+}
+#tabela2 {
+			margin: 6px 0 0 12px; 
+}
+#tabela2 tr td {
+			font-size: 10px; 
+			border: 2px solid #cc9c36;
+}
+.texto_mini {
+			text-align: center;
+			font-size: 13px; 
+			font-weight: bold;
+}
+#formulario {
+			font-size: 15px;
+			margin: 10px 0 0 150px;
+}
+#form {
+			width: 300px;
+}
+#tel {
+			width: 279px;
+}#escult {
+			text-align: center;
+}
+#video {
+			border: 2px solid #cc9c36;
+			margin: 10px 0 0 70px;
+}
+#curso {
+			text-align: center;
+}
+#lista {
+			font-size: 18px;
+			margin: 10px 0 0 20px;
+}
+#niet {
+			font-size: 15px;
+			margin-top: 30px;
+}

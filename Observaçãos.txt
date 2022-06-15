@@ -1,0 +1,6 @@
+Recife, 20/04/2016.
+
+Olá.
+
+O site só funciona como deveria no Chrome, Firefox e Opera. 
+No Explorer ele desconfigura tudo e no Safari o vídeo não roda. 
